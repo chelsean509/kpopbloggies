@@ -1,0 +1,107 @@
+.topnav {
+	 	background-color: #ffffff;
+	 	overflow: hidden;
+	 }
+	 .topnav a {
+	 	float: left;
+	 	color: #F0889E;
+	 	text-align: center;
+	 	padding: 14px 16px;
+	 	text-decoration: none;
+	 	font-size: 17px;
+	 	font-family: Lucida Sans Unicode
+	 }
+	 .topnav a:hover {
+	 	background-color: #FEFFE2 ;
+	 }
+	 .topnav a.active {
+	 	background-color: #FFFFBF;
+	 	color: #F0889E;
+	 }
+.header {
+	color: #FFFFFF;
+	font-family: Lucida Console;
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	left: 43%;
+	top: 8%;
+	border: 2px
+}
+.subheader {
+	color: #ffffff;
+	font-family: Lucida Sans Unicode;
+	font-weight: bold;
+	font-size: 20px;
+	position: absolute;
+	left: 5%;
+	top: 15%;
+}
+.text {
+	color: #FD9EBC;
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 15px;
+	position: absolute;
+	left: 3%;
+	top: 25%;
+	background-color: #FFFFFF;
+	padding: 0px 15px; 
+}
+.pegphoto {
+	position: absolute;
+	left: 60%;
+	top: 70%;
+	width: 350px;
+}
+.contacts {
+	color: #FD9EBC;
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 15px;
+	position: absolute;
+	left: 0%;
+	top: 85%;
+	background-color: #FFFFFF;
+	padding: 0px 15px; 
+}
+.peg1 {
+	width: 300px;
+	height: auto;
+	position:absolute;
+	left: 2%;
+	top: 35%;
+}
+.peg1:hover{
+	transform:scale(1.3);
+}
+.peg2 {
+	width: 300px;
+	height: auto;
+	position:absolute;
+	left: 26%;
+	top: 35%;
+}
+.peg2:hover{
+	transform:scale(1.3);
+}
+.peg3 {
+	height: auto;
+	height: 280px;
+	position:absolute;
+	left: 74%;
+	top: 30%;
+}
+.peg3:hover{
+	transform:scale(1.3);
+}
+.peg4 {
+	width: 300px;
+	height: auto;
+	position:absolute;
+	left: 50%;
+	top: 35%;
+}
+.peg4:hover{
+	transform:scale(1.3);
+}
